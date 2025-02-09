@@ -8,6 +8,6 @@
     "@eth-optimism/atst": "0.0.0-20230306212852",
     "@wagmi/core": "^0.9.7",
     "ethers": "5.7.0",
-    "dotenv": "*"
+    "dotenv": "16.4.7"
   }
 }
